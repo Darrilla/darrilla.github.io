@@ -13,13 +13,18 @@ Chess Clock is a mobile chess clock app designed for over-the-board play.
 Chess Clock does not collect personal information from users.
 
 The app does not require you to create an account, sign in, or provide your
-name, email address, phone number, location, contacts, photos, or payment
-information.
+name, email address, phone number, location, or contacts.
+
+Chess Clock does not collect your payment information directly. If you choose
+to buy an optional in-app purchase, payment processing is handled by the
+platform app store.
 
 ## How the App Works
 
 Chess Clock runs locally on your device. Game timing, settings, and app
 behavior are handled on-device.
+
+Optional in-app purchases and purchase restores use the platform app store.
 
 ## Analytics, Advertising, and Tracking
 
@@ -46,4 +51,3 @@ updated. The updated version will be posted on this page with a revised
 If you have questions about this Privacy Policy, contact:
 
 darrilla@gmail.com
-

@@ -26,10 +26,12 @@ If you contact support, it helps to include:
 
 ## App Summary
 
-Chess Clock is designed for local, on-device play and currently does not
-require accounts or online services.
+Chess Clock is designed for local, on-device play and does not require app
+accounts or online services.
+
+The app also includes an optional one-time Pro unlock managed by the platform
+app store.
 
 ## Response Time
 
 I will do my best to respond as soon as reasonably possible.
-
