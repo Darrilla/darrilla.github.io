@@ -1,4 +1,15 @@
-theme: jekyll-theme-minimal
-title: Darrilla
-description: Public app support and policy pages
+title: Darrilla Software
+description: Games with a little character. Home of Darrilla Chess Clock and ArrowZilla.
+url: https://darrilla.com
+baseurl: ""
+markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
 google_site_verification: xmdQiV4D8aTIblFwVREI04yFvuxR4KBHa3bMtUo69i0

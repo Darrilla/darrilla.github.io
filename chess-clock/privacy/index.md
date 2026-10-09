@@ -1,16 +1,17 @@
 ---
-title: Chess Clock Privacy Policy
+title: Chess Clock privacy policy
+category: Chess Clock
+description: How Darrilla Chess Clock handles your information.
 ---
 
-# Privacy Policy for Chess Clock
+Last updated: October 8, 2026
 
-Last updated: June 29, 2026
-
-Chess Clock is a mobile chess clock app designed for over-the-board play.
+Darrilla Chess Clock is a mobile chess clock app designed for over-the-board
+play, made by Darrilla Software.
 
 ## Information We Collect
 
-Chess Clock does not collect personal information from users.
+The app does not collect personal information from users.
 
 The app does not require you to create an account, sign in, or provide your
 name, email address, phone number, location, or contacts.
@@ -24,6 +25,8 @@ platform app store.
 Chess Clock runs locally on your device. Game timing, settings, and app
 behavior are handled on-device.
 
+Saved time controls and preferences are stored locally on your device.
+
 Optional in-app purchases and purchase restores use the platform app store.
 
 ## Analytics, Advertising, and Tracking
@@ -33,8 +36,19 @@ technologies.
 
 ## Data Sharing
 
-Chess Clock does not sell, share, or transfer personal information to third
-parties.
+The app does not sell, share, or transfer personal information to third parties.
+
+## Support Messages
+
+If you email Darrilla Software, we receive your email address and any information
+you choose to include. We use this information to respond to your request and
+investigate the issue. Please do not include passwords or payment details.
+
+## App Stores
+
+Google Play and the Apple App Store handle downloads, purchases, and purchase
+restores under their own privacy policies. Their handling of store account and
+payment information is separate from the local clock.
 
 ## Children's Privacy
 
@@ -50,4 +64,8 @@ updated. The updated version will be posted on this page with a revised
 
 If you have questions about this Privacy Policy, contact:
 
-darrilla@gmail.com
+[darrilla@gmail.com](mailto:darrilla@gmail.com)
+
+---
+
+[Back to Chess Clock](/chess-clock/) · [Support](/chess-clock/support/)

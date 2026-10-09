@@ -1,37 +1,45 @@
 ---
-title: Chess Clock Support
+title: Chess Clock support
+category: Chess Clock
+description: Help with time controls, Pro purchases, and games at your board.
 ---
 
-# Chess Clock Support
+## Contact Darrilla
 
-Thank you for using Chess Clock.
+For questions, bug reports, or feedback, email
+[darrilla@gmail.com](mailto:darrilla@gmail.com?subject=Chess%20Clock%20support).
 
-Chess Clock is a mobile chess clock app built to feel like a real physical
-chess clock for over-the-board play.
+Please include your device model, Android or iOS version, app version, and
+the steps that led to the issue. For a timing problem, include the time control
+and whether the game was interrupted. A screenshot can help; leave out private
+information.
 
-## Contact
+## How do I switch turns?
 
-For support, questions, or bug reports, contact:
+Tap the active player's half of the clock after making a move. Put the phone
+between the players so each player can reach their side.
 
-darrilla@gmail.com
+## Do I need an internet connection?
 
-## What to Include
+The core clock works offline and requires no account. Buying or restoring Pro
+uses Google Play or the App Store and needs access to that store.
 
-If you contact support, it helps to include:
+## How do I restore Pro?
 
-- your device model
-- your OS version
-- a short description of the issue
-- steps to reproduce the problem
+Use **Restore Purchases** in the app while signed into the same store account
+used for the original purchase. Google Play and App Store purchases are managed
+separately. If restoration fails, tell us which store you used and what message
+you see. Do not send payment details or passwords.
 
-## App Summary
+## Why did my game pause?
 
-Chess Clock is designed for local, on-device play and does not require app
-accounts or online services.
+An active game pauses when the app loses focus. Review the in-app interruption
+protection guide and your device's notification settings before your next match.
 
-The app also includes an optional one-time Pro unlock managed by the platform
-app store.
+## Can I skip the welcome animation?
 
-## Response Time
+Yes. Tap the intro to go straight to the app; skipping does not start a game.
 
-I will do my best to respond as soon as reasonably possible.
+---
+
+[Back to Chess Clock](/chess-clock/) · [Privacy policy](/chess-clock/privacy/)
