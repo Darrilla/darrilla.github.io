@@ -30,5 +30,7 @@ optimized for size; the app repositories remain the source for the originals.
 The ArrowZilla illustrations are labeled as artwork rather than screenshots.
 
 ArrowZilla is described as in development; add store links when available.
-Its privacy page covers the current prototype. Review that policy when adding
-analytics, ads, purchases, or online services.
+Its privacy page covers development test ads and planned AdMob consent and
+purchase features. Keep it aligned with the released app. `app-ads.txt` contains
+the AdMob authorized-seller entry; store listings must link this developer site
+before AdMob can verify it.
