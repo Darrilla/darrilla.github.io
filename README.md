@@ -29,7 +29,8 @@ illustrations and publisher intro come from ArrowZilla. Website copies are
 optimized for size; the app repositories remain the source for the originals.
 The ArrowZilla illustrations are labeled as artwork rather than screenshots.
 
-ArrowZilla is described as in development; add store links when available.
+ArrowZilla links to its Google Play closed test and labels the public iOS listing
+as awaiting approval. Update availability when Apple approves the release.
 Its privacy page covers development test ads and planned AdMob consent and
 purchase features. Keep it aligned with the released app. `app-ads.txt` contains
 the AdMob authorized-seller entry; store listings must link this developer site

@@ -4,7 +4,7 @@ category: ArrowZilla
 description: How to play, find a clear exit, and send feedback on the current prototype.
 ---
 
-ArrowZilla is in development. This page covers the current prototype.
+ArrowZilla is in beta testing. This page covers the current game.
 
 ## Contact Darrilla
 
@@ -18,7 +18,7 @@ private information.
 
 ## Why won't an arrow leave?
 
-Another arrow's tail may cross its exit path. Clear the blocker first. Hold
+Another arrow's head or tail may cross its exit path. Clear the blocker first. Hold
 near the arrow's head to see its exit ray: green means clear; red means blocked.
 Hold it again to hide that ray.
 
@@ -41,14 +41,26 @@ best completed ratings. Restart a level to try for a cleaner run.
 
 ## Where is my progress saved?
 
-The current prototype saves your selected level, unlocked levels, and ratings
+The game saves your selected level, unlocked levels, and ratings
 on your device. It does not provide account-based cloud sync. Clearing app data
 or removing the app can remove that progress.
 
+## Why did a level lose its rating after an update?
+
+Some retired puzzles have been replaced with picture levels. A replacement is
+an unsolved puzzle and must be played to earn stars and a time. Ratings for
+retained puzzles stay with those puzzles as their level numbers change.
+
+## Why are ads unavailable?
+
+An ad may be unavailable while the advertising service has no suitable ad to
+show. Optional ads are not required to keep playing. The ad-removal purchase
+removes automatic between-level ads; optional rewarded ads remain available.
+
 ## Where can I download it?
 
-ArrowZilla is still in development. Public store links will be added to the
-[ArrowZilla overview](/arrowzilla/) when available.
+Find the Google Play closed-test link and iOS availability on the
+[ArrowZilla overview](/arrowzilla/).
 
 ---
 

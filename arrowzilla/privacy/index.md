@@ -4,10 +4,10 @@ category: ArrowZilla
 description: How ArrowZilla handles progress, advertising, purchases, and privacy choices.
 ---
 
-Last updated: October 12, 2026
+Last updated: October 14, 2026
 
 ArrowZilla is an arrow puzzle game made by Darrilla Software. This policy
-describes version 1.0 and its development builds. Development builds use test
+describes versions 1.0 and 1.1 and their development builds. Development builds use test
 ads; store builds use the advertising and purchase services described below.
 
 ## Information the game collects
@@ -35,7 +35,7 @@ identifiers, interactions such as ad views and taps, and diagnostic information.
 Google uses this information to provide and measure advertising, analyze
 performance, and prevent fraud. Available identifiers and ad personalization
 depend on the game's child-directed configuration, your device settings, and
-applicable regional rules. Version 1.0 applies child-directed ad treatment and
+applicable regional rules. Versions 1.0 and 1.1 apply child-directed ad treatment and
 Google's G maximum ad-content rating for every player. It does not request
 personalized advertising, and the child-directed setting disables advertising
 ID collection by Google's ad SDK.
@@ -51,7 +51,7 @@ diagnostics are separate from those Unity services.
 
 The game checks Google's User Messaging Platform before requesting ads and
 shows Privacy choices in Settings when Google requires that entry point.
-Version 1.0 applies under-age consent treatment to every player, so Google's
+Versions 1.0 and 1.1 apply under-age consent treatment to every player, so Google's
 consent request may not present the adult consent forms. Ad requests proceed
 only when Google's consent system permits them.
 
@@ -92,7 +92,7 @@ you have sent directly to Darrilla Software.
 ArrowZilla is intended for children and older players. A neutral age-group
 screen appears before advertising starts. The game does not request a name,
 exact date of birth, or contact information to play, and the selected age group
-stays on the device. Version 1.0 uses the same child-directed, non-personalized
+stays on the device. Versions 1.0 and 1.1 use the same child-directed, non-personalized
 ad settings for every age group.
 
 If you believe a child has sent personal information directly to us, contact
