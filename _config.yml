@@ -1,6 +1,6 @@
-title: Darrilla Software
-description: Games with a little character. Home of Darrilla Chess Clock and ArrowZilla.
-url: https://darrilla.com
+title: Darrell Burns
+description: The personal website of Darrell Burns. Software, ideas, and creative projects.
+url: https://darrilla.github.io
 baseurl: ""
 markdown: kramdown
 defaults:
@@ -12,4 +12,3 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
-google_site_verification: xmdQiV4D8aTIblFwVREI04yFvuxR4KBHa3bMtUo69i0

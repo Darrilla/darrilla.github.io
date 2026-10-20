@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://darrilla.com/sitemap.xml
+Sitemap: https://darrilla.github.io/sitemap.xml
